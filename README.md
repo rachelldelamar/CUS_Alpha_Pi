@@ -167,8 +167,8 @@ git push
 ---
 
 ## 📬 Contact
-- Email: chapter@university.edu
-- Instagram: @xys_alphapi
+- Email: ----
+- Instagram: ---
 
 ---
 
